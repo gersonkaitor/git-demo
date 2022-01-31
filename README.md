@@ -1,4 +1,4 @@
-# git-demo
+# Learning Git and Github
 
 ## This repo use to learn Git and GIthub
 
